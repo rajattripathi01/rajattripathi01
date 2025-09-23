@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajat Tripathi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Core Java, Springboot**
+-  I’m currently learning **Core Java, Springboot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajattripathi01](https://github.com/rajattripathi01)
+-  All of my projects are available at [https://github.com/rajattripathi01](https://github.com/rajattripathi01)
 
-- 📫 How to reach me **rajattripathi5967@gmail.com**
+-  How to reach me **rajattripathi5967@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
